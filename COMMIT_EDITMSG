@@ -1,0 +1,7 @@
+Add a pretty embed to the test message command
+
+Update the `.test2` command to send an embedded message with the bot's profile picture as an emoji, avoiding role pings.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: 9b7b90ed-8608-4f05-ad5c-27defac10706
+Replit-Commit-Checkpoint-Type: full_checkpoint
